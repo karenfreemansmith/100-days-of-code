@@ -4,9 +4,29 @@
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
 ## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
+1. [Daily UI Challenges](http://www.dailyui.co/)
 2. [The Odin Project](http://www.theodinproject.com/)
-3. [Learn How to Program](https://www.learnhowtoprogram.com/courses) - Free online courses with lots of project ideas for HTML/CSS/JavaScript, PHP, C#, Java, Ruby and several frameworks.
+3. [FreeCodeCamp](https://www.freecodecamp.com)
+4. [Javascript 30](https://javascript30.com/)
+5. [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
+6. [Learn How to Program](https://www.learnhowtoprogram.com/courses) - Free online courses with lots of project ideas for HTML/CSS/JavaScript, PHP, C#, Java, Ruby and several frameworks.
+7. [Web Development Tutorials](https://www.tutorialspoint.com/web_development_tutorials.htm)
+8. [Mobile Development Tutorials](https://www.tutorialspoint.com/mobile_development_tutorials.htm)
+9. [Programming Language Tutorials](https://www.tutorialspoint.com/computer_programming_tutorials.htm)
+10. [Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d#.b1ihswhgw) - 27 app ideas that are not another to-do list.
+11. [49 Beginning Game Programming Projects](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+12. [96 Beginner Projects With Solutions](https://github.com/karan/Projects-Solutions)
+13. [Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+14. [Code Abbey](http://www.codeabbey.com/index/task_list)
+14. [Practical Projects for Any Programming Language](https://github.com/karan/Projects)
+16. [Project Euler](https://projecteuler.net/archives) - Over 580 programming challenges
+17. [RosettaCode.org](http://rosettacode.org/wiki/Category:Programming_Tasks) - Over 820 programming challenges
+18. [Internet Wish List](http://ww1.theinternetwishlist.com)
+19. [Idea Machine](http://www.ideamachine.io/)
+20. [Programmer Marketplaces](http://www.hongkiat.com/blog/50-freelance-job-sites-for-designers-programmers-best-of/) - List of freelance programmer sites to find paid gigs.
+
+
+
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
