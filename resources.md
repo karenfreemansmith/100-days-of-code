@@ -6,6 +6,7 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [Learn How to Program](https://www.learnhowtoprogram.com/courses) - Free online courses with lots of project ideas for HTML/CSS/JavaScript, PHP, C#, Java, Ruby and several frameworks.
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
