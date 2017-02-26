@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 25, 2017 
+### Day 2: February 26, 2017 
 
 **Today's Progress**: 
 (Tutorials)
-* [Flexbox Practice](https://github.com/karenfreemansmith/flexbox-practice)
-* [JS30:DEvent Propagation, bubbling & once](https://github.com/karenfreemansmith/JS30-Day25-Events)
+* [Flexbox Practice (3-5)](https://github.com/karenfreemansmith/flexbox-practice)
+* [JS30:Day26 - Stipe type follow along drop down](https://github.com/karenfreemansmith/JS30-Day26-StripeDropDown)
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
@@ -13,10 +13,24 @@
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
 
-**Job Hunting**
+**Job Hunting: **
+Found a couple job listings on LinkedIn and reading some articles about making my profile better - planning to update the profile this evening and send off appplications to these 2 jobs (and a 3rd ont if I can find another, my goal is 3 per day).
+
+**Thoughts: ** 
+I really like this navigation trick - but the tutorial has a problem with where the drop down is displayed in relation to the menu. I need to troubleshoot that and then I may try to take that navigation and addit to my portfolio where I have too many links on my drop-downs to read them all - I could put a double column on the long ones maybe? The flex box with the wrap is starting to look pretty interesting too. It might be good for showing thumbnails on my portfolio page? I should probably concentrate on the projects that are likely to be shown on demo day though.
+
+
+### Day 1: February 25, 2017 
+
+**Today's Progress**: 
+(Tutorials)
+* [Flexbox Practice (1-2)](https://github.com/karenfreemansmith/flexbox-practice)
+* [JS30:Day 25 - Event Propagation, bubbling & once](https://github.com/karenfreemansmith/JS30-Day25-Events)
+
+**Job Hunting: **
 Posted updates on Facebook, LinkedIn, and Twitter that I'm done with my internship and looking for work. Also recently updated and turned "on" profiles on Monster and Dice.com. Plus, I'm doing this code challenge to keep my skills sharp (and add a few new ones).
 
-**Thoughts:** 
+**Thoughts: ** 
 I finished my internship yesterday and so feel like this is a good time to start on something new (and code-intensive). I'm looking for a real job and hope that I will find one before the end of this 100 days - which by the nature of new jobs may keep me from finishing - but in a good way. In the meantime I have been continuing through the JavaScript30 program and am on day 25 today. I'm planning to finish the series, take the flexbox and redux series that are offered for free, and pay my bills to see if I can afford the paid courses. I've got lots of school projects that could be improved on, and the curriculum for the classes I didn't take in PHP and C# seem like good candidates for things to do. We also have "Demo Day" coming up in a couple weeks and there are projects to polish up for that in the short term. 100 days seems like a long time. I think I should track my job hunting efforts as well...
 
 
