@@ -1,17 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 3: February 27, 2017 
+
+**Today's Progress**: 
+(Tutorials)
+* [React Practice (1-2)] - No link, it was all setup and overview. I should have watched these this weekend.
+
+(Personal Projects)
+* [Fixed the aligmnent on yesterday's tutorial](https://karenfreemansmith.github.io/JS30-Day26-StripeDropDown/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+Interview. Application => phone call (like in 10 minutes...). Phone interview -> got stood up. 2nd phone interview -> got stood up. Would it be wrong to say I'm not waiting by my phone for a recruiter to call me anymore? 2 more applications with cover letters. A letter of inquiry to a former employer. Put today's activities, yesterdays, and all the inApply applications into a sreadsheet. I'm at 48 jobs (with a few missing...) applied to in the past 3 months. I'm so tired right now...
+
+**Thoughts: ** 
+
+
+
 ### Day 2: February 26, 2017 
 
 **Today's Progress**: 
 (Tutorials)
 * [Flexbox Practice (3-5)](https://github.com/karenfreemansmith/flexbox-practice)
 * [JS30:Day26 - Stipe type follow along drop down](https://github.com/karenfreemansmith/JS30-Day26-StripeDropDown)
-
-(Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 Found a couple job listings on LinkedIn and reading some articles about making my profile better - planning to update the profile this evening and send off appplications to these 2 jobs (and a 3rd ont if I can find another, my goal is 3 per day).
