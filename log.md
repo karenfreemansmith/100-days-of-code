@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 4: February 28, 2017 
+
+**Today's Progress**: 
+(Tutorials)
+* [Click and Drag to Scroll](https://github.com/karenfreemansmith/JS30-Day27-HorizontalScroller)
+* [???](https://github.com/karenfreemansmith/)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Applied for 2 jobs with cover letters/online applications
+* Scheduled phone interview for job from one of yesterday's applicaitons
+* Researched company for phone interiew
+* Wrote a note to a high school friend that works at this company asking for any tips or advice on the interview.
+
+**Thoughts: ** 
+Job hunting could be more than a full-time job. It could be totally addictive like a video game, there is this never ending stream of job postings to sort through and research that could be done... I need to find a way to NOT get sucked into it so much. And a way to write cover letters faster... I feel bad that I have not written more code, but I got caught up looking at reviews and salary data on Glassdoor, and news feeds from the company until 9 or 10 pm. And it's not like I was "done" researching then...
+
+A further exploration to write your own drag and drop feature was suggested and I would like to do that at some point...maybe on my ToDo List that is currently using jQueryUI for drag and drop?
+
+
 ### Day 3: February 27, 2017 
 
 **Today's Progress**: 
@@ -9,14 +34,17 @@
 (Personal Projects)
 * [Fixed the aligmnent on yesterday's tutorial](https://karenfreemansmith.github.io/JS30-Day26-StripeDropDown/)
 
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
-
 **Job Hunting: **
-Interview. Application => phone call (like in 10 minutes...). Phone interview -> got stood up. 2nd phone interview -> got stood up. Would it be wrong to say I'm not waiting by my phone for a recruiter to call me anymore? 2 more applications with cover letters. A letter of inquiry to a former employer. Put today's activities, yesterdays, and all the inApply applications into a sreadsheet. I'm at 48 jobs (with a few missing...) applied to in the past 3 months. I'm so tired right now...
+* Interview. 
+* Application => phone call (like in 10 minutes...). 
+* Phone interview -> got stood up. 
+* 2nd phone interview -> got stood up. Would it be wrong to say I'm not waiting by my phone for a recruiter to call me anymore? 
+* 2 more applications with cover letters. 
+* A letter of inquiry to a former employer. 
+* Put today's activities, yesterdays, and all the inApply applications into a sreadsheet. I'm at 48 jobs (with a few missing...) applied to in the past 3 months. 
 
 **Thoughts: ** 
-
+I'm so tired right now...
 
 
 ### Day 2: February 26, 2017 
