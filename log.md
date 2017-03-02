@@ -11,7 +11,7 @@
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
+* [Whack-a-Pol(ititian)](https://github.com/karenfreemansmith/Whack-a-Pol/tree/gh-pages) - Because the Whack-a-mole was so much fun!
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
@@ -20,7 +20,7 @@
 * Taking a day off to focus more on the coding (besides, I have my goal of 10 applications for the week and an interiew tomorrow)
 
 **Thoughts: ** 
-I'm excited about the whack-a-mole game so am trying to finish up the 30 days (as opposed to skipping it) and want to make some modifications and create my own "Whack-a-Pol(ititian)" version of the game that I can share with my friends. I also need to update some politician photos on my "NewsWorthy" app, so the projects go well together.
+I'm excited about the whack-a-mole game so am trying to finish up the 30 days (as opposed to skipping it) and want to make some modifications and create my own "Whack-a-Pol(ititian)" version of the game that I can share with my friends. I also need to update some politician photos on my "NewsWorthy" app, so the projects go well together. One of the two extra projects finished, Tomorrow I will get to the NewsWorthy updates while I wait for that interview.
 
 
 ### Day 4: February 28, 2017 
