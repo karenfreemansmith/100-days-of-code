@@ -1,10 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 4: February 28, 2017 
+
+### Day 5: March 5, 2017 
 
 **Today's Progress**: 
 (Tutorials)
-* [Click and Drag to Scroll](https://github.com/karenfreemansmith/JS30-Day27-HorizontalScroller)
+* [JS30-Day28: Video Playback Rate](https://github.com/karenfreemansmith/JS30-Day28-VideoTiming)
+* [JS30-Day29: Countdown Timer](https://github.com/karenfreemansmith/JS30-Day29-CountDownTimer)
+* [JS30-Day30: Whack-A-Mole](https://github.com/karenfreemansmith/JS30-Day30-WhackAMole/tree/gh-pages)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
@@ -12,6 +15,19 @@
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Taking a day off to focus more on the coding (besides, I have my goal of 10 applications for the week and an interiew tomorrow)
+
+**Thoughts: ** 
+I'm excited about the whack-a-mole game so am trying to finish up the 30 days (as opposed to skipping it) and want to make some modifications and create my own "Whack-a-Pol(ititian)" version of the game that I can share with my friends. I also need to update some politician photos on my "NewsWorthy" app, so the projects go well together.
+
+
+### Day 4: February 28, 2017 
+
+**Today's Progress**: 
+(Tutorials)
+* [Click and Drag to Scroll](https://github.com/karenfreemansmith/JS30-Day27-HorizontalScroller)
 
 **Job Hunting: **
 * Applied for 2 jobs with cover letters/online applications
