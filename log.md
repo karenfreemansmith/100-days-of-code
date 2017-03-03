@@ -1,20 +1,35 @@
 # 100 Days Of Code - Log
 
 
-### Day 5: March 5, 2017 
+### Day 6: March 2, 2017 
+
+**Today's Progress**: 
+(Tutorials)
+* [ES6 Tutorials (Mod1: Lessons 1-5](https://github.com/karenfreemansmith/ES6Practice)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Phone interview with US Bank
+* Updating LinkedIn per LinkedIn Training Videos
+* Researching more on US Bank
+
+**Thoughts: ** 
+The interview went well, and that kept me distracted from my planned tasks all day as I consider the possible job offer. We talked about salary, even though that's a no-no. But it helps to know what to expect. It's kind of low for what I'd like, but not completely out of the ballpark, so it's really more about the job. I think I might not stay for more than a year or two because of the salary - but that seems long enough to see what kind of upward mobility there is in the company. AND it's hard to get the first job, right? So it seems like I should just take the first one that comes along... 6 months ago at the beginning of bootcamp it felt different, like I'd hold out for... something. Now I'm trying to remember what. But for now I'll assume the other job leads will also pan out and even comparing with those, I think this is the better job because it's Java, which is one step closer to Android no matter what the pay and benefits. Glad it was an easy few lessons tonight - my mind is so much more on the job search right now.
+
+### Day 5: March 1, 2017 
 
 **Today's Progress**: 
 (Tutorials)
 * [JS30-Day28: Video Playback Rate](https://github.com/karenfreemansmith/JS30-Day28-VideoTiming)
 * [JS30-Day29: Countdown Timer](https://github.com/karenfreemansmith/JS30-Day29-CountDownTimer)
 * [JS30-Day30: Whack-A-Mole](https://github.com/karenfreemansmith/JS30-Day30-WhackAMole/tree/gh-pages)
-* [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
 * [Whack-a-Pol(ititian)](https://github.com/karenfreemansmith/Whack-a-Pol/tree/gh-pages) - Because the Whack-a-mole was so much fun!
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 * Taking a day off to focus more on the coding (besides, I have my goal of 10 applications for the week and an interiew tomorrow)
