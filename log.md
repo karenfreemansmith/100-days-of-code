@@ -1,7 +1,44 @@
 # 100 Days Of Code - Log
 
+### Day 8: March 4, 2017 (Saturday)
 
-### Day 6: March 2, 2017 
+**Today's Progress**: 
+(Tutorials)
+* [React Tutorials (4 & 5)](https://github.com/karenfreemansmith/React-CatchOfDay)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* None
+
+**Thoughts: ** 
+Busy day away from the computer attending my son's school event and then my boyfriend's flying lesson. Staying up late to take another setp or two on the reacct tutorials. The second one is giving me trouble, it doesn't seem to be working and I'm too tired to try to debug it tonight. It will be a place to start tomorrow.
+
+### Day 6: March 3, 2017 (Friday)
+
+**Today's Progress**: 
+(Tutorials)
+* [React Tutorials (3)](https://github.com/karenfreemansmith/React-CatchOfDay)
+
+(Personal Projects)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/React-NewsWorthy) - setup project in React
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [NewsWorthy Android App](https://github.com/karenfreemansmith/Epic-Android-Capstone/) - update data for new president/cabinet
+
+**Job Hunting: **
+* Applied to 3 jobs, 1 inApply, 2 online apps
+* Talk to 2 recruiters with jobs in Portland 1 via phone (FrontEnd Web Developer), 1 via email (Big Data)
+
+**Thoughts: ** 
+Felt like a good day, got the bulk of updates done on app, missed Secretary of State and may need some foreign leaders updated to. I want to build a front end that will make it easier to update people (and check for needed updates). Figure I can work on that at the same time as learning React. Got turned down for frontend job because I don't have a project to demonstrate that I can do React/Redux. Maybe this will be the one for the next time I have a recruiter calling looking for those skills.
+
+
+### Day 6: March 2, 2017 (Thrusday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -20,7 +57,8 @@
 **Thoughts: ** 
 The interview went well, and that kept me distracted from my planned tasks all day as I consider the possible job offer. We talked about salary, even though that's a no-no. But it helps to know what to expect. It's kind of low for what I'd like, but not completely out of the ballpark, so it's really more about the job. I think I might not stay for more than a year or two because of the salary - but that seems long enough to see what kind of upward mobility there is in the company. AND it's hard to get the first job, right? So it seems like I should just take the first one that comes along... 6 months ago at the beginning of bootcamp it felt different, like I'd hold out for... something. Now I'm trying to remember what. But for now I'll assume the other job leads will also pan out and even comparing with those, I think this is the better job because it's Java, which is one step closer to Android no matter what the pay and benefits. Glad it was an easy few lessons tonight - my mind is so much more on the job search right now.
 
-### Day 5: March 1, 2017 
+
+### Day 5: March 1, 2017 (Wednesday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -38,7 +76,7 @@ The interview went well, and that kept me distracted from my planned tasks all d
 I'm excited about the whack-a-mole game so am trying to finish up the 30 days (as opposed to skipping it) and want to make some modifications and create my own "Whack-a-Pol(ititian)" version of the game that I can share with my friends. I also need to update some politician photos on my "NewsWorthy" app, so the projects go well together. One of the two extra projects finished, Tomorrow I will get to the NewsWorthy updates while I wait for that interview.
 
 
-### Day 4: February 28, 2017 
+### Day 4: February 28, 2017 (Tuesday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -56,7 +94,7 @@ Job hunting could be more than a full-time job. It could be totally addictive li
 A further exploration to write your own drag and drop feature was suggested and I would like to do that at some point...maybe on my ToDo List that is currently using jQueryUI for drag and drop?
 
 
-### Day 3: February 27, 2017 
+### Day 3: February 27, 2017 (Monday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -78,7 +116,7 @@ A further exploration to write your own drag and drop feature was suggested and 
 I'm so tired right now...
 
 
-### Day 2: February 26, 2017 
+### Day 2: February 26, 2017 (Sunday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -92,7 +130,7 @@ Found a couple job listings on LinkedIn and reading some articles about making m
 I really like this navigation trick - but the tutorial has a problem with where the drop down is displayed in relation to the menu. I need to troubleshoot that and then I may try to take that navigation and addit to my portfolio where I have too many links on my drop-downs to read them all - I could put a double column on the long ones maybe? The flex box with the wrap is starting to look pretty interesting too. It might be good for showing thumbnails on my portfolio page? I should probably concentrate on the projects that are likely to be shown on demo day though.
 
 
-### Day 1: February 25, 2017 
+### Day 1: February 25, 2017 (Saturday)
 
 **Today's Progress**: 
 (Tutorials)
