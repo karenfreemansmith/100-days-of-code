@@ -1,16 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 5, 2017 (Sunday)
+
+**Today's Progress**: 
+(Tutorials)
+* [React Tutorials (5 & 6)](https://github.com/karenfreemansmith/React-CatchOfDay) - Fix styling and add first components
+
+(Personal Projects)
+* [NewsWorthy Admin](https://github.com/karenfreemansmith/React-Newsworthy) - Add first components and rudimentary styling
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* One inApply
+* Abandoned one online application because they wanted a more exciting cover letter than I think I can write for a job I probably won't even get a callback on. (You see the depression there? Maybe I'll snap out of it tomorrow...)
+
+**Thoughts: ** 
+Feeling depressed about not having a job, being too fat, feeling in the way all the time, and hurting from all the activity yesterday. Spent most of the day hiding in bed. Got up only to code. Not eating, hard to concentrate.
+
+
 ### Day 8: March 4, 2017 (Saturday)
 
 **Today's Progress**: 
 (Tutorials)
 * [React Tutorials (4 & 5)](https://github.com/karenfreemansmith/React-CatchOfDay)
-
-(Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 * None
@@ -18,7 +32,8 @@
 **Thoughts: ** 
 Busy day away from the computer attending my son's school event and then my boyfriend's flying lesson. Staying up late to take another setp or two on the reacct tutorials. The second one is giving me trouble, it doesn't seem to be working and I'm too tired to try to debug it tonight. It will be a place to start tomorrow.
 
-### Day 6: March 3, 2017 (Friday)
+
+### Day 7: March 3, 2017 (Friday)
 
 **Today's Progress**: 
 (Tutorials)
