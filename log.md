@@ -5,6 +5,7 @@
 **Today's Progress**: 
 (Tutorials)
 * [React Tutorials (7-8-9)](https://github.com/karenfreemansmith/React-CatchOfDay) - Passing data to components and routing
+* [ES6 Tutorials (Arrow Functions Lessons 6-8)](https://github.com/karenfreemansmith/ES6Practice)
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
@@ -74,7 +75,7 @@ Felt like a good day, got the bulk of updates done on app, missed Secretary of S
 
 **Today's Progress**: 
 (Tutorials)
-* [ES6 Tutorials (Mod1: Lessons 1-5](https://github.com/karenfreemansmith/ES6Practice)
+* [ES6 Tutorials (Mod1: Lessons 1-5)](https://github.com/karenfreemansmith/ES6Practice)
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
