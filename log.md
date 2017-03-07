@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 6, 2017 (Monday)
+
+**Today's Progress**: 
+(Tutorials)
+* [React Tutorials (7-8-9)](https://github.com/karenfreemansmith/React-CatchOfDay) - Passing data to components and routing
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* One resume sent in response to recruiter inquiry - followed by phone interview and their client's timeline
+* One resume sent in response to recruiter inquiry - followed by silence
+
+**Thoughts: ** 
+That first recruiter call did a lot to lift my mood, but I was doing better at sticking to the code when I was feeling depressed! After I'm all distracted trying to research the company I may be interviewing at later this week or next. Got through a nice chunk of the React turorial anyway. I'm starting to feel like I know enough to maybe add React to some of our Intro projects from Epicodus.
+
+
 ### Day 9: March 5, 2017 (Sunday)
 
 **Today's Progress**: 
@@ -8,9 +28,6 @@
 
 (Personal Projects)
 * [NewsWorthy Admin](https://github.com/karenfreemansmith/React-Newsworthy) - Add first components and rudimentary styling
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 * One inApply
