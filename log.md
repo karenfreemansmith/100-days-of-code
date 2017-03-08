@@ -1,17 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 10: March 6, 2017 (Monday)
+### Day 11: March 7, 2017 (Tuesday)
 
 **Today's Progress**: 
 (Tutorials)
-* [React Tutorials (7-8-9)](https://github.com/karenfreemansmith/React-CatchOfDay) - Passing data to components and routing
-* [ES6 Tutorials (Arrow Functions Lessons 6-8)](https://github.com/karenfreemansmith/ES6Practice)
+* [ES6 Tutorials (Arrow Functions Lessons 9 & 10)](https://github.com/karenfreemansmith/ES6Practice)
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Two email replies/interview questions (Nike/Pivotal)
+
+**Thoughts: ** 
+Waiting is the worst. The more I think I will hear back from someone, the harder it is to not stare at the inbox. I feel really cheap tonight because all I did was a couple quick tutorials. I spent all day... staring at my inbox??? You think that you will have all this time when you are out of work because you don't have to work, but sometimes I think I get more done when I have a job.
+
+
+### Day 10: March 6, 2017 (Monday)
+
+**Today's Progress**: 
+(Tutorials)
+* [React Tutorials (7-8-9)](https://github.com/karenfreemansmith/React-CatchOfDay) - Passing data to components and routing
+* [ES6 Tutorials (Arrow Functions Lessons 6-8)](https://github.com/karenfreemansmith/ES6Practice)
 
 **Job Hunting: **
 * One resume sent in response to recruiter inquiry - followed by phone interview and their client's timeline
