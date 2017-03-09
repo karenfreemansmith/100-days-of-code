@@ -1,16 +1,44 @@
 # 100 Days Of Code - Log
 
-### Day 11: March 7, 2017 (Tuesday)
+
+### Day 13: March 9, 2017 (Thursday)
 
 **Today's Progress**: 
 (Tutorials)
-* [ES6 Tutorials (Arrow Functions Lessons 9 & 10)](https://github.com/karenfreemansmith/ES6Practice)
+* [Flexbox Practice (10-12)](https://github.com/karenfreemansmith/flexbox-practice) - Flex Grow/Shrink
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Still waiting. Not applying today. Demo day is tomorrow. I was ready in January for the one they cancelled. I still can't think of anything I really want to try to "add" to the project until after the demo is done. (For fear of breaking everything else...)
+
+**Thoughts: ** 
+Still feeling disorganized and distracted. I'm juggling a dozen things, at least 10 of which are probably not needed (Facebook for instance... to reading/studying various articles, but with no direction, no underlying goal)
+
+
+### Day 12: March 8, 2017 (Wednesday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Flexbox Practice (6-9)](https://github.com/karenfreemansmith/flexbox-practice) - Centering & Aligning
+
+**Job Hunting: **
+* Waiting to hear back on half a dozen things...
+* A couple more recruiter calls, but no offers, no call backs. I think my resume is scaring them off, it didn't used to. Mabye I need to dig out my old resume and use it instead?
+
+**Thoughts: ** 
+Trying to get started with the coding early, so that any replies don't prevent me from doing anything at all. Still feeling distracted. I really meant to go add flexbox to some of my previous projects after I finished those tutorials, but I got lost somewhere along the picking one to start with. 
+
+
+### Day 11: March 7, 2017 (Tuesday)
+
+**Today's Progress**: 
+(Tutorials)
+* [ES6 Tutorials (Arrow Functions Lessons 9 & 10)](https://github.com/karenfreemansmith/ES6Practice)
 
 **Job Hunting: **
 * Two email replies/interview questions (Nike/Pivotal)
@@ -228,6 +256,3 @@ I've been kind of passively looking for work before and during my internship, th
 * 1 job passed on
 
 **Thoughts:** I've been seeing this tag a lot lately and a couple friends are doing it, I think. I'm not sure I want to make a commitment to code everyday. I mean, I do. But I'm not sure what counts. If I write code for 8 hours at work, do I still need to do another hour each night after work? (That's kind of the way I'm interpreting it...so it feels like logging work-related code might be cheating. But sometimes I work on it at home too... and then there really isn't any time!)
-
-
-
