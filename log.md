@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 
-### Day 13: March 9, 2017 (Thursday)
+### Day 13: March 11, 2017 (satursday)
 
 **Today's Progress**: 
 (Tutorials)
-* [Flexbox Practice (10-12)](https://github.com/karenfreemansmith/flexbox-practice) - Flex Grow/Shrink
+* [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
@@ -14,7 +14,35 @@
 * [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
+* Expanding resume to 2 pages to show more details on what I did when
+
+**Thoughts: ** 
+So much to do this weekend, but it feels good to have a deadline and more direction. Wishing I didn't have social commitements though, I want to spend all weekend coding (and less time than it will really take me to redo the resume).
+
+
+### Day 14: March 10, 2017 (Friday)
+
+**Today's Progress**: 
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* Misc. small fixes on demo projects to deploy them for demo day
+
+**Job Hunting: **
+* Attended demo day...
+* Got call back on one of the jobs I'm really excited about asking for some resume changes
+
+**Thoughts: ** 
+Was somewhat disappointed at lack of employer interest in our entire Java/Android track section of the floor. Excited about job possibility and dumping my weekend plans for rewriting my resume and reviewing all my Angular projects.
+
+
+### Day 13: March 9, 2017 (Thursday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Flexbox Practice (10-12)](https://github.com/karenfreemansmith/flexbox-practice) - Flex Grow/Shrink
+
+**Job Hunting: **
 * Still waiting. Not applying today. Demo day is tomorrow. I was ready in January for the one they cancelled. I still can't think of anything I really want to try to "add" to the project until after the demo is done. (For fear of breaking everything else...)
+* Attended meetup on soft skills interviewing, made a few new contacts (mostly other job seekers)
 
 **Thoughts: ** 
 Still feeling disorganized and distracted. I'm juggling a dozen things, at least 10 of which are probably not needed (Facebook for instance... to reading/studying various articles, but with no direction, no underlying goal)
