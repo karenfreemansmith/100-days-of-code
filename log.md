@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
 
 
-### Day 13: March 11, 2017 (satursday)
+### Day 15: March 11, 2017 (satursday)
 
 **Today's Progress**: 
 (Tutorials)
-* [???](https://github.com/karenfreemansmith/)
+* Angular ToDo List (Treehouse)
 
 (Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
+* WLL - Update site to use Angular, first step
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
+* [NewsWorthy](https://github.com/karenfreemansmith/Epic-Android-CapstoneProject) - Fix small but annoying bugs, missing pictures, random change with change in screen orientation.
 
 **Job Hunting: **
 * Expanding resume to 2 pages to show more details on what I did when
