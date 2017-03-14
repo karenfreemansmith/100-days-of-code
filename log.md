@@ -6,6 +6,7 @@
 **Today's Progress**: 
 (Tutorials)
 * [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
+* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Following along with the exercises on Angular 4 Video
 * [Upgrading Angular 1 to Angular 2](https://www.safaribooksonline.com/)
 
 (Personal Projects)
