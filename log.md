@@ -1,7 +1,49 @@
 # 100 Days Of Code - Log
 
 
-### Day 15: March 11, 2017 (satursday)
+### Day 17: March 13, 2017 (Monday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
+* [Upgrading Angular 1 to Angular 2](https://www.safaribooksonline.com/)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* My resume was submitted to Nike, and now more waiting. But optimistic that this company has the right pull as they have put me to work, and got me interviews previously.
+* Diving into Angular, my week spot for this job - spent most the day reading or watching videos to try to better understand Angular's history and architecture.
+* A job hunting seminar (free - so largely a commercial with a handful of good tips, one or two I had not seen before)
+
+**Thoughts: ** 
+I have not really written any code today. Mostly trying to setup Angular 4 on Cloud9, and/or on my desktop. Installation is slow and Node has to be upgraded before the new version of Angular will run. Feeling impatient...
+
+
+### Day 18: March 12, 2017 (Sunday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
+* [Upgrading Angular 1 to Angular 2](https://www.safaribooksonline.com/)
+
+(Personal Projects)
+* [WLL](https://github.com/karenfreemansmith/Angular-WorldLanguageLibrary) - Played around with Angular and upgrading the site. Found some limitations I was not expecting and had to undo a lot of what I did to get the site to display. Going back to watching videos to try to understand what I'm doing wrong there.
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [NewsWorthy](https://github.com/karenfreemansmith/Epic-Android-CapstoneProject) - Worked on maintaining state when phone rotates, gave up and set the project to portrait only for now. I think it's ready for the playstore at this point.
+
+**Job Hunting: **
+* Social/Networking stuff...last night was my first visit to Killer Android group, it was fun and the first meetup that felt really worth the effort of going. Alumni game night today with some friends from school - less beneficial, but a good break from it all.
+
+**Thoughts: ** 
+I think I made some good contacts last night. I got some practical help with my project and some advice from people who seem like they would know (job hunting), as well as feeling like I was right at home the first time I visited a group - very unusual. Two of them work at a place I'd like to work (and applied to back in December) and there is a feeling that after some time that contact could be helpful. I'm excited about a couple of my current potential jobs right now though so chasing a resume that is in the black hole right now doesn't seem like fun. 
+
+
+### Day 15: March 11, 2017 (Saturday)
 
 **Today's Progress**: 
 (Tutorials)
