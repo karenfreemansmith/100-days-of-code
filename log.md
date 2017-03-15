@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 18: March 13, 2017 (Monday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
+* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Following along with the exercises on Angular 4 Video
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Got a callback for 2nd (technical) interview with US Bank on Friday
+
+**Thoughts: ** 
+Was feeling really good about the routing this morning, and then we started services... it was a huge amount of code from one working point to another and I'm still trying to find my missing bit or typo, or whatever it is that's keeping it from running. Hoping I can solve this one before bed. Thinking it may be time to pause and try to duplicate what I've learned on an unrelated project just to see if I really understand all the steps. And maybe review the video and take better notes as well. It just got overwhelming.
+
+
 ### Day 17: March 13, 2017 (Monday)
 
 **Today's Progress**: 
@@ -8,12 +28,6 @@
 * [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
 * [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Following along with the exercises on Angular 4 Video
 * [Upgrading Angular 1 to Angular 2](https://www.safaribooksonline.com/)
-
-(Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 * My resume was submitted to Nike, and now more waiting. But optimistic that this company has the right pull as they have put me to work, and got me interviews previously.
