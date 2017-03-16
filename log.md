@@ -1,21 +1,37 @@
 # 100 Days Of Code - Log
 
 
-### Day 18: March 13, 2017 (Monday)
+### Day 19: March 15, 2017 (Wednesday)
 
 **Today's Progress**: 
 (Tutorials)
 * [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
-* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Following along with the exercises on Angular 4 Video
+* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Fixed the bug in the service from yesterday, added custom module, routing module, and 3rd party module to style with Angular Material 2.
 
 (Personal Projects)
 * [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
+* [Portfolio](http://codepen.io/karenfreemansmith/pen/PNOrjJ) - Refactoed portfolio from Epicodus to be one page for CodePen (Free Code Camp/30 Days, 30 Websites)
+
+**Job Hunting: **
+* Dug through my closet for a good outfit to wear to an interview at a bank, not happy wiht anything I found.
+* Read another chapter from J2EE book
+
+**Thoughts: ** 
+
+
+
+### Day 18: March 14, 2017 (Tuesday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
+* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Added 2 services, one works - the other doens't and I can't see any difference between the two.
 
 **Job Hunting: **
 * Got a callback for 2nd (technical) interview with US Bank on Friday
+* Reading up on J2EE for interview
 
 **Thoughts: ** 
 Was feeling really good about the routing this morning, and then we started services... it was a huge amount of code from one working point to another and I'm still trying to find my missing bit or typo, or whatever it is that's keeping it from running. Hoping I can solve this one before bed. Thinking it may be time to pause and try to duplicate what I've learned on an unrelated project just to see if I really understand all the steps. And maybe review the video and take better notes as well. It just got overwhelming.
@@ -26,7 +42,7 @@ Was feeling really good about the routing this morning, and then we started serv
 **Today's Progress**: 
 (Tutorials)
 * [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
-* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Following along with the exercises on Angular 4 Video
+* [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Added components and routing
 * [Upgrading Angular 1 to Angular 2](https://www.safaribooksonline.com/)
 
 **Job Hunting: **
