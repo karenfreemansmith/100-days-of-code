@@ -14,7 +14,7 @@
 * [Angular April Invitation](https://codepen.io/karenfreemansmith/project/full/ZWbbeD/) - An Online Invitation (30 Days, 30 Websites)
 
 **Job Hunting: **
-* Watching videos on some of the technologies they use so I can be better prepared for tomorrow's tech interview (J2EE, design patterns, interview tips, WebSphere)
+* [Watching videos](https://app.pluralsight.com/profile/karen-freeman-smith) on some of the technologies they use so I can be better prepared for tomorrow's tech interview (J2EE, design patterns, interview tips, WebSphere)
 * Laundry - no, really, you have to wear clean clothers to an interview, right?
 
 **Thoughts: ** 
