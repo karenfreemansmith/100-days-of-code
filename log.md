@@ -8,7 +8,7 @@
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
+* [World Language Library](https://github.com/karenfreemansmith/wll4) - Rewriting in Angular, added components
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [Angular April Invitation](https://codepen.io/karenfreemansmith/project/full/ZWbbeD/) - An Online Invitation (30 Days, 30 Websites)
@@ -19,6 +19,8 @@
 
 **Thoughts: ** 
 Not a lot to show for my day. I hope these videos sink in a little, and that I can find a decent outfit to wear to my interview tomorrow. I'm getting out of my comfort zone a little with today's project, not as much with the tech (I did use React, but nothing really new from what I've learned so far...) but wiht the copywriting. Our assignment was "an invitation". So, okay, I'm inviting people to learn Angular with me next month. And if I get any actual interest, then I will make some videos and setup a webpage or facebook group or whatever and actully try to run one of these challenges. Eeek...
+
+Working on my language site is challenging because there is SO MUCH information, trying to figure out how to organize it into components and visualize how it's going to look on the website. It's days like to day I have more sympathy for clients that don't know what they want. I don't know exactly what I want right now either. (Which is the main reason the repository is private for now...)
 
 
 ### Day 19: March 15, 2017 (Wednesday)
