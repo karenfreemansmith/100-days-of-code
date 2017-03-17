@@ -1,15 +1,32 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: March 16, 2017 (Thursday)
+
+**Today's Progress**: 
+(Tutorials)
+* [???](https://github.com/karenfreemansmith/)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [Angular April Invitation](https://codepen.io/karenfreemansmith/project/full/ZWbbeD/) - An Online Invitation (30 Days, 30 Websites)
+
+**Job Hunting: **
+* Watching videos on some of the technologies they use so I can be better prepared for tomorrow's tech interview (J2EE, design patterns, interview tips, WebSphere)
+* Laundry - no, really, you have to wear clean clothers to an interview, right?
+
+**Thoughts: ** 
+Not a lot to show for my day. I hope these videos sink in a little, and that I can find a decent outfit to wear to my interview tomorrow. I'm getting out of my comfort zone a little with today's project, not as much with the tech (I did use React, but nothing really new from what I've learned so far...) but wiht the copywriting. Our assignment was "an invitation". So, okay, I'm inviting people to learn Angular with me next month. And if I get any actual interest, then I will make some videos and setup a webpage or facebook group or whatever and actully try to run one of these challenges. Eeek...
+
+
 ### Day 19: March 15, 2017 (Wednesday)
 
 **Today's Progress**: 
 (Tutorials)
 * [Angular 4 Video on Safari Online](https://www.safaribooksonline.com/)
 * [Movie Trivia](https://github.com/karenfreemansmith/Angular-4-IntroTutorial) - Fixed the bug in the service from yesterday, added custom module, routing module, and 3rd party module to style with Angular Material 2.
-
-(Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [Portfolio](http://codepen.io/karenfreemansmith/pen/PNOrjJ) - Refactoed portfolio from Epicodus to be one page for CodePen (Free Code Camp/30 Days, 30 Websites)
@@ -19,7 +36,7 @@
 * Read another chapter from J2EE book
 
 **Thoughts: ** 
-
+I feel like I'm going so slow. I have all day (or close enough) to work on this, but I don't feel like I'm speeding along nearly as fast as we did during bootcamp. I do feel like I'm learning it better - so there may be something in going slower. Still, I feel a certain urgency as I could get quizzed on this stuff any day in an interview and I wish I could know everything. I don't think anyone can know everything - there is so much everything to learn. But I also feel like they will use anything you don't know as an excuse to not hire you.
 
 
 ### Day 18: March 14, 2017 (Tuesday)
