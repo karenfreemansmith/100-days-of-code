@@ -1,11 +1,28 @@
 # 100 Days Of Code - Log
 
 
-### Day 20: March 16, 2017 (Thursday)
+### Day 21: March 17, 2017 (Friday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
+
+(Personal Projects)
+* [???](https://github.com/karenfreemansmith/)
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* 2nd Interview a US Bank
+
+**Thoughts: ** 
+
+
+
+### Day 20: March 16, 2017 (Thursday)
+
+**Today's Progress**: 
 
 (Personal Projects)
 * [World Language Library](https://github.com/karenfreemansmith/wll4) - Rewriting in Angular, added components
