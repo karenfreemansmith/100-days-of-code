@@ -8,7 +8,7 @@
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [???](https://github.com/karenfreemansmith/)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-Newsworthy)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
@@ -17,7 +17,9 @@
 * 2nd Interview a US Bank
 
 **Thoughts: ** 
+The interview went good, I think. They are looking for people who will like the job and stay a long time (as in decades). I think I would like the job and stay a few years. It seemed like a nice team and it might be hard to leave/easy to stay, but at some point I think I would want to do more coding, or more interesting work. Although they did say they expect a new person to take 3-5 years to learn the job. I can't even imagine anything complex enough to take that long to learn - so maybe boredom would not be as big a factor as I think. I do think they sensed I might not be happy for a real long tie as well though, so I can see the job slipping away to someone who is better at laying it on thick about how much they love the company and want to spend the rest of their life there.
 
+All of which has me thinking more about the job hunt and asking myself if I should even apply to positions that aren't exactly what I want to be doing for the next 5-10 years or more. I think most places expect more turnover than that (or else offer more incentives to stay). I think I will look harder for actual Android positions though, and maybe Java developer, but less web developer as that is okay for a year or two, but again, not my long term goal.
 
 
 ### Day 20: March 16, 2017 (Thursday)
