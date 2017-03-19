@@ -1,17 +1,31 @@
 # 100 Days Of Code - Log
 
 
-### Day 21: March 17, 2017 (Friday)
+### Day 22: March 18, 2017 (Saturday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-Newsworthy)
+* [World Language Library](https://github.com/karenfreemansmith/wll4) - Added routing
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Set up developer & merchant account on Google play store (because having an app on the playstore is supposed to impress potential employers - and if it doesn't I might want to earn soem money with in-app purchases someday)
+
+**Thoughts: ** 
+Setup is always the time suck... even when it's setting up a developer account. Because then you want a business name and so you have to invent one, and register yet another domain name to make it feel "real" - which means setting up the web hosting and email... and you suddenly realize it's time for bed and you have not written any actual CODE. But on the good side, I did the routing mostly from memory this time. Repetition is truly a key for my learning style.
+
+
+### Day 21: March 17, 2017 (Friday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-Newsworthy) - Components and Routing, some data
 
 **Job Hunting: **
 * 2nd Interview a US Bank
