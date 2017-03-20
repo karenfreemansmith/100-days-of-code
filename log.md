@@ -1,17 +1,45 @@
 # 100 Days Of Code - Log
 
 
-### Day 22: March 18, 2017 (Saturday)
+### Day 24: March 20, 2017 (Monday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [World Language Library](https://github.com/karenfreemansmith/wll4) - Added routing
+* [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
+* [GitHubChallenge](https://github.com/karenfreemansmith/) - I signed the APK and uploaded it to the play store, waiting for approval or processing or something. It wasn't as instant as I thought it would be. Only 2 images in there and I think they are both public domain, so I'm hoping...)
+
+**Job Hunting: **
+* Contacted about 2 jobs with Aditi Consulting...they submitted my resume for one or both (?-Not actually sure if they did the front end position, but they did submit me for the Android job... whoot! I'm not qualified really don't expect to hear back on it.)
+
+**Thoughts: ** 
+I didn't feel like doing anything today, and sat down and tried anyway. I'm pretty happy with all the (non-coding) that I managed to do to get this app online. It's still pending, but hopefully I'll have a link by tomorrow. And then the fixing will begin... I'm sure there are things I will need to work on with the user interface already. It seems like the app is bigger than my phone all of the sudden... but I put it out there anyway - because it's never going to be perfect.
+
+
+### Day 23: March 11, 2017 (Sunday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April](https://github.com/karenfreemansmith/books-articles) - Outlined 30 day course assignments to learn Angular
+
+**Job Hunting: **
+* Nothing - well, maybe this tutorial project will turn into a thing that I can get paid for or that convinces someone I can do their job, who knows?
+
+**Thoughts: ** 
+I spent a lot of time on this. I didn't mean to, but once I got started I just kept going. I have a pretty good script started almost through the first week. I got all the pieces in small enough parts to follow along (I think) and still got everything done with a few review days for catch up or questions. I actually feel like this could be a real thing.
+
+
+### Day 22: March 18, 2017 (Saturday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [World Language Library](https://github.com/karenfreemansmith/wll4) - Added routing
 
 **Job Hunting: **
 * Set up developer & merchant account on Google play store (because having an app on the playstore is supposed to impress potential employers - and if it doesn't I might want to earn soem money with in-app purchases someday)
