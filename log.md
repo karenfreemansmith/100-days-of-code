@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 24: March 20, 2017 (Monday)
+### Day 26: March 22, 2017 (Wednesday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -11,7 +11,34 @@
 * [???](https://github.com/karenfreemansmith/)
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
-* [GitHubChallenge](https://github.com/karenfreemansmith/) - I signed the APK and uploaded it to the play store, waiting for approval or processing or something. It wasn't as instant as I thought it would be. Only 2 images in there and I think they are both public domain, so I'm hoping...)
+* [NewsWorthyFlashcards](https://play.google.com/store/apps/details?id=com.karenfreemansmith.flashcards) - Uploaded a stable version and shared link with friends, still working on implementing the in-app billing.
+
+**Job Hunting: **
+* Just waiting by the phone and coding/studying (preparing for the non-existant interviews)
+
+**Thoughts: ** 
+Watching a lot of videos on Java, after several hours we are finally gettting to the part where I don't feel like it's complete review...which is maybe 25% through the beginner section. Now with class inheritance and various Java libraries there is a lot more new information, or reviewing stuff that is more than just forgetting if it's a "(" or a "[" in this language. Some people from bootcamp are starting to report new jobs - which is encouraging. Most are not quite programming jobs though, which is not so much. I don't mind not being first. I'd really like to see some of my classmates get their foot in the door somewhere. It would be a push as I'm getting tired of spamming my resume into the black hole. There is a new crop of interns this week. My friend who stayed on is jealous they are getting better "training/orientation" than we did. I'm more worried about MORE jr.devs on the job market before our group all find something. It's a worry day... and slow coding, although I'm making steps toward this in-app thing... baby steps.
+
+
+### Day 25: March 21, 2017 (Tuesday)
+
+**Today's Progress**: 
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [NewsWorthyFlashcards](https://play.google.com/store/apps/details?id=com.karenfreemansmith.flashcards) - Set up the library for in-app billing
+
+**Job Hunting: **
+* Applied for a direct position as "Sr. Java Developer" with Intel... it took 3 online applications to get to their real application
+
+**Thoughts: ** 
+I did find a small typo on my resume while filling out hte Intel thing...it was in my phone number. If anyone has been getting randokm calls for interviews, send them back my way, okay? Not sure how many bad phone number resumes I actually sent out, probably only 2 or 3. Kinda glad it's been a slow job hunting week. The in-app billing is more complicated than I expected and I feel lost half the time I'm tring to read the documentation or watch the video. I'm hoping following step by step will be easier than it looks. I also retook some of the skills assessments on PluralSight and got much better scores on the ones that came back surprisingly low, probably makes a difference how awake you are when taking them. Much happier with the profile page now anyway.
+
+
+### Day 24: March 20, 2017 (Monday)
+
+**Today's Progress**: 
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [GitHubChallenge](https://github.com/karenfreemansmith/) - I signed the APK and uploaded it to the play store, waiting for approval or processing or something. It wasn't as instant as I thought it would be. Only 2 images in there and I think they are both public domain, so I'm hoping... but, no it was rejected for too my ANR and crashes)
+* [NewsWorthyFlashcards](https://play.google.com/store/apps/details?id=com.karenfreemansmith.flashcards) - Got this one accepted thought. Except it's not really finished, I want to add in-app billing to it
 
 **Job Hunting: **
 * Contacted about 2 jobs with Aditi Consulting...they submitted my resume for one or both (?-Not actually sure if they did the front end position, but they did submit me for the Android job... whoot! I'm not qualified really don't expect to hear back on it.)
@@ -20,7 +47,7 @@
 I didn't feel like doing anything today, and sat down and tried anyway. I'm pretty happy with all the (non-coding) that I managed to do to get this app online. It's still pending, but hopefully I'll have a link by tomorrow. And then the fixing will begin... I'm sure there are things I will need to work on with the user interface already. It seems like the app is bigger than my phone all of the sudden... but I put it out there anyway - because it's never going to be perfect.
 
 
-### Day 23: March 11, 2017 (Sunday)
+### Day 23: March 19, 2017 (Sunday)
 
 **Today's Progress**: 
 
