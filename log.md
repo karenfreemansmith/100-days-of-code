@@ -1,14 +1,47 @@
 # 100 Days Of Code - Log
 
 
-### Day 26: March 22, 2017 (Wednesday)
+
+### Day 28: March 24, 2017 (Friday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
+* [Books & Articles](https://github.com/karenfreemansmith/) - building a list of project ideas. Thinking of ways to use it as a funnel for other projects like "Angular April" which is about to be renamed "Angular August" as I keep working on other things instead.
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Pone interview with Scott from Artitudes, a Seattle design firm with a need for a backend billing application
+* Follow up on a couple other job leads, sent resume to Matt for eBay, talked to recruiter from Experis about a testing position and passed it on to a more qualified classmate when I was not enough of what they were looking for.
+
+**Thoughts: ** 
+I have too many things on my to-do list. I think I'd accomplish more if I had a shorter list, or at least that I would get started sooner if I limited myself to just one programming task a day instead of my current list which is like 48 hours of programming stuff i want to do. Too much stuff just makes it hard to get started.
+
+
+
+### Day 27: March 23, 2017 (Thursday)
+
+**Today's Progress**: 
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [NewsWorthyFlashcards](https://play.google.com/store/apps/details?id=com.karenfreemansmith.flashcards) - some more work on in-app billing, following code on Trivial Drive sample
+* [GitHubChallenge](https://github.com/karenfreemansmith/Epic-Android-GithubChallenge) - Added strict mode to see where delays in app might be coming from
+
+**Job Hunting: **
+* The big meetup at eBay... fun, but not much good for job hunting. I like the group and expect to be a regular there, but not that it's the networking opportunity meetups are supposed to be.
+* Came home and applied for about 5 more jobs in my disappointment (some with the more challenging online ap instead of inApply)
+
+**Thoughts: ** 
+It was nice to catch up with some of my classmates at the meetup. Don't know how many of them socialized outside our circle, hope some of them come back to the group - but I see a lot of people thinking other mobile platforms are more interesting, so maybe not? I don't think networking at meetups is my thing - not for jobs. But I did enjoy the meetup and met some new people and socialized with both the Saturday group and also the Epicodus group while I was there. Not making as much progress on the play store apps as I would like. Or even on the wath videos and learn more Java to bring up my skill rating on PluralSight. I feel depressed. Johnathan called with some problems and felt really stressed about not having enough money to fix them for him. I hate being unemployed. It's all getting in the way of doing stuff. 
+
+
+### Day 26: March 22, 2017 (Wednesday)
+
+**Today's Progress**: 
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [NewsWorthyFlashcards](https://play.google.com/store/apps/details?id=com.karenfreemansmith.flashcards) - Uploaded a stable version and shared link with friends, still working on implementing the in-app billing.
