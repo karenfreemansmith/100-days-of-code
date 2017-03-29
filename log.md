@@ -2,17 +2,77 @@
 
 
 
-### Day 28: March 24, 2017 (Friday)
+### Day 32: March 24, 2017 (Tuesday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [Books & Articles](https://github.com/karenfreemansmith/) - building a list of project ideas. Thinking of ways to use it as a funnel for other projects like "Angular April" which is about to be renamed "Angular August" as I keep working on other things instead.
+* [Angular April](https://github.com/karenfreemansmith/AngularAprilWebsite) - Made a landing page for the Angular challenge I'm going to put out next month... also an intro video and put it up on YouTube, not coding, but kind of related. 
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Follow up with freelance job
+* Field recruiter contact (probably for Nike)
+
+**Thoughts: ** 
+Whoo-hoo! I made a video. People have watched it... Guess that means I'm committed to making 30 more for this experiment. Hoping I can keep my personal learning curve ahead of the scheduled videos.
+
+
+### Day 31: March 27, 2017 (Monday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-NewsWorthy) - more services, finally got the JSON working and messed up somthing when I tried to merge the branch back into master.
+
+**Job Hunting: **
+* Follow up on freelance job, review requirements and start estimate
+
+**Thoughts: ** 
+I feel reluctant to pick up and start over, but I'm missing all the files that were overlooked in .gitignore file and automatically installed with the ng new cli command. Sometimes I really hate automation. I can't just run the command again to fix it, and I want to know enough to fix it by hand when these things go wrong, but I don't. I'm not even sure you can with these tools...
+
+
+### Day 30: March 26, 2017 (Sunday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-NewsWorthy) - more services, finally got the JSON working and messed up somthing when I tried to merge the branch back into master.
+
+**Job Hunting: **
+* None, weekend
+
+**Thoughts: ** 
+I'm glad to be focused on one project, and I'm getting a lot done, or was until that merge problem and now I wonder if I need to start over from scratch (again)... but I have code I can cut and paste if that is the case. I feel like I'm forgetting stuff though - all those other projects I'm not working on. I have too many projects.
+
+
+### Day 29: March 25, 2017 (Saturday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [NewsWorthy Backend](https://github.com/karenfreemansmith/Angular-NewsWorthy) - Working on adding services at meetup and continuing at home
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Saturday Mentorship Meetup, talked to people, no jobs present - lots of job seekers
+
+**Thoughts: ** 
+The meetup was good. I knew some people, I met some people. I didn't get a lot done on my project, but I was all energized and focused when I got home.
+
+
+### Day 28: March 24, 2017 (Friday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Books & Articles](https://github.com/karenfreemansmith/) - building a list of project ideas. Thinking of ways to use it as a funnel for other projects like "Angular April" which is about to be renamed "Angular August" as I keep working on other things instead.
 
 **Job Hunting: **
 * Pone interview with Scott from Artitudes, a Seattle design firm with a need for a backend billing application
