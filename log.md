@@ -2,7 +2,94 @@
 
 
 
-### Day 32: March 24, 2017 (Tuesday)
+### Day 37: April 2, 2017 (Sunday)
+
+**Today's Progress**: 
+(Tutorials)
+* [???](https://github.com/karenfreemansmith/)
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Update day 3
+* [Angular April Personal Site](https://github.com/karenfreemansmith/AngularAprilProject1) - fill out day 3 layout & design
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Researched company for Monday's interview
+
+**Thoughts: ** 
+I'm feeling good about my project again. Felt lost this morning with "what to do next". I have no idea really what I'm going to do on this video from this point forward, and they are taking a lot longer than I think they should to make. Today was a little better though, once I started making it. I still have a few more things to create as "homework" though. 
+
+
+### Day 36: April 1, 2017 (Saturday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Update day 2, add direction for others
+* [Angular April Personal Site](https://github.com/karenfreemansmith/AngularAprilProject1) - add components & routing
+* [Angular April Business Site](https://github.com/karenfreemansmith/AngularAprilProject2) - add components & routing
+* [Angular April Online Store](https://github.com/karenfreemansmith/AngularAprilProject3) - add components & routing
+* [Angular April Community Site](https://github.com/karenfreemansmith/AngularAprilProject4) - add components & routing
+
+**Job Hunting: **
+* Attended meetup, passed out a business card, made a couple new friends
+
+**Thoughts: ** 
+It's hard to be the one hold out in a room full of people learning Go, or React. But I did get to help troubleshoot (maybe) a stuborn Android Studio problem. No work on my project though because the Internet was not available from my corner of the building. Meanwhile, back at home I have day 2 finished and uploaed and linked. I never did hear back on that proposal for the freelance job in Seattle. It's the weekend now, but I suspect my estimate was too high. But it's hard to estimate time/costs for a project without more details. The unknown always turns into "worst case senario" for me. It's like that hesitation in the interview for that job. I am too honest and can't just tell people what they want to hear. I don't know if I can survive in the world of IT with a handicap like that.
+
+
+### Day 35: March 31, 2017 (Friday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Update day 1
+* [Angular April Online Store](https://github.com/karenfreemansmith/AngularAprilProject3) - setup project with material
+* [Angular April Community Site](https://github.com/karenfreemansmith/AngularAprilProject4) - setup project with material
+
+**Job Hunting: **
+* Attended meetup
+* Responded to new job lead - Sngular
+* Scheduled phone interivew with ThinkShout
+
+**Thoughts: ** 
+A little virtual vengance and a good night's sleep and I'm back to a better state emotionally, and moving forward with my project. I have an interview for the job I applied to - yesterday... I like the turn around time. And it loks like my dream company. So thanks to the so-so guys that didn't offer me a job for which I would have quit looking and applying! Meanwhile, I have my first real video up and ready to go. It's almost an hour long and starts 4 new projects for Angular. I will be focusing my attentions on this one thing for the most part - all next month. No good reason, only that Angular and April sound good together. Everything else is going on the back burner for now. I expect more focus to really help me progress faster...and in May I can pick up one of those things I'm shoving to the background for now. It's hard though, there are so many shiny objects to chase after in this world of programming languages and frameworks.
+
+
+### Day 34: March 30, 2017 (Thursday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - expand website
+* [Angular April Personal Site](https://github.com/karenfreemansmith/AngularAprilProject1) - setup project
+* [Angular April Business Site](https://github.com/karenfreemansmith/AngularAprilProject2) - setup project with bootstrap
+
+**Job Hunting: **
+* Applied to ThinkShout
+* Found out someone else just accepted the job I had the highest hopes for...depressing
+
+**Thoughts: ** 
+I'm depressed and frustrated with the job hunt. I'm so glad I have this project to fall back on - to be excited about. At the same time, I had to pause this evening and just drink and watch Cersei blow up the Sept of Balor one more time. This time feeling it from Cersei's viewpoint. My best friend just accepted the job I was thinking I would be offered. I'm happy for her, but frustrated beause she told me how much she doesn't really want it and plans to stay only as long as it takes to find the next job. I would have stayed a lot longer than that. (She's very talented - wondering if she'll even make it through whatever orientation they have before the next offer comes along?) The frustration is more in knowing that she felt that way, but somehow she went into the interview and charmed them and told them what they wanted to hear regardless of her true intentions. Why can't I do that? I mean, I hesitated because I was not sure I'd stay the decades they seemed to be looking for. And they saw that hesitation and read into it... well, something they must not have seen in my "quit tomorrow if something better comes along" friend. Not being able to compete in interviews that way kills me. Always has...
+
+
+### Day 33: March 29, 2017 (Wednesday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Setup informational website for project
+
+**Job Hunting: **
+* Not sure if my current project to make videos might count as a job hunting activity or not...
+
+**Thoughts: ** 
+I'm excited about this new projet and find that making up the "curriculum" for these videos took up my whole day and made it pass pretty quickly. Scary to contemplate a video series that includes things I have not figure out how to do yet - but in a good/exciting kind of scary.
+
+
+### Day 32: March 28, 2017 (Tuesday)
 
 **Today's Progress**: 
 (Tutorials)
@@ -10,9 +97,6 @@
 
 (Personal Projects)
 * [Angular April](https://github.com/karenfreemansmith/AngularAprilWebsite) - Made a landing page for the Angular challenge I'm going to put out next month... also an intro video and put it up on YouTube, not coding, but kind of related. 
-
-(Other...FreeCodeCamp/Epicodus/OpenSource)
-* [???](https://github.com/karenfreemansmith/)
 
 **Job Hunting: **
 * Follow up with freelance job
