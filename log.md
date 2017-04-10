@@ -1,19 +1,131 @@
 # 100 Days Of Code - Log
 
 
-
-### Day 37: April 2, 2017 (Sunday)
+### Day 44: April 9, 2017 (Sunday)
 
 **Today's Progress**: 
 (Tutorials)
 * [???](https://github.com/karenfreemansmith/)
 
 (Personal Projects)
-* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Update day 3
-* [Angular April Personal Site](https://github.com/karenfreemansmith/AngularAprilProject1) - fill out day 3 layout & design
+* [NewsWorthy](https://github.com/karenfreemansmith/) - complete sample unit test
 
 (Other...FreeCodeCamp/Epicodus/OpenSource)
 * [???](https://github.com/karenfreemansmith/)
+
+**Job Hunting: **
+* Review progress for past month, set goals for next
+
+**Thoughts: ** 
+Today was mostly about refocusing on what I want to be doing... trying to appreciate my progress of the past month and set some realistic goals for next month.
+
+
+### Day 43: April 8, 2017 (Saturday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [NewsWorthy](https://github.com/karenfreemansmith/Epic-Android-CapstoneProject) - fix several minor bugs, start writing a sample test
+* [Angular April-Project 1](https://github.com/karenfreemansmith/AngularAprilProject1) - Clean up CSS on pages, add some data transfer
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [The Odin Project](https://github.com/karenfreemansmith/theodinproject) - Add more css for history div
+
+**Job Hunting: **
+* Not one, but two meetups!
+
+**Thoughts: ** 
+It was good to get out and work around people again. Crazy loud work environments though, and feeling very scattered jumping between projects at a fairly steady pace. Computer was super slow when I was asking for help. Seems to run find when people aren't watching.
+
+
+### Day 42: April 7, 2017 (Friday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April - Project 3](https://github.com/karenfreemansmith/AngularAprilProject3) - adding components, passing data
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [The Odin Project](https://github.com/karenfreemansmith/theodinproject) - Add more css for history div
+
+**Job Hunting: **
+* Interview with Andrew@VH
+* Call from Joel in NC about Cigna job, submitting my resume
+
+**Thoughts: ** 
+The contrast between these two recruiters. Andrew was all put me in my place, tell me the facts of life for a Jr. Developer looking for work, points me to yet another training program (3 years long) and tells me he can't do anything for me. Then appologizes after actually LOOKING at my resume and offers to try to place me at $45/hr. Meanwhile Joel says he has a client that is interested in meeting with me and would $60/hr be okay? I don't know why it's the first guy, and the first part of that meeting the sticks in my mind. I know I have more to learn. I know a lot. But I can't really progress much further without an actual job to provide more challenges. I'm not creative enough to challenge myself beyond the next tutorial. Falling farther behind on making my video tutorials.
+
+
+### Day 41: April 6, 2017 (Thursday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Project 1](https://github.com/karenfreemansmith/AngularApril1) - Updated pages
+* [Angular April Project 3](https://github.com/karenfreemansmith/AngularApril3) - Completed video for day 5, adding ngconf links at end
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Added day 5 updates
+
+**Job Hunting: **
+* Contacted by recruiter, but kept missing each other in a game of phone tag (Joel)
+
+**Thoughts: ** 
+I had my phone ringer off and missed his call. I got so caught up in Angular April I didn't even notice any messages/email about the missed call. Tried to call back later, but missed him. Pleasently surprised he was still interested in talking with me after my poor response.
+
+
+### Day 40: April 5, 2017 (Wednesday)
+
+**Today's Progress**: 
+
+(Tutorials)
+* [Rails-Hello World](https://github.com/karenfreemansmith/rails-hello-world) - Working on tutorials from The Odin Project, trying to set up development environment on Cloud9 so I can work on this contribution/about page. 
+
+**Job Hunting: **
+* None
+
+**Thoughts: ** 
+I am in way over my head on this contribution thing. I thought I'd be doing some HTML/CSS, but it is all on Rails, which I don't know yet! Missed a day on my video series and am now officially behind schedule. Don't think anyone but Chris is doing it though, and I'm still comfortabley ahead of him.
+
+
+### Day 39: April 4, 2017 (Tuesday)
+
+**Today's Progress**: 
+(Tutorials)
+* [Rails-Hello World](https://github.com/karenfreemansmith/rails-hello-world) - Working on tutorials from The Odin Project, trying to set up development environment on Cloud9 so I can work on this contribution/about page.
+
+(Personal Projects)
+* [Angular April Project 1](https://github.com/karenfreemansmith/AngularApril1) - Updated pages
+* [Angular April Project 2](https://github.com/karenfreemansmith/AngularApril3) - Completed video for day 4, adding playlist link to end of all videos
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Added day 4 updates
+
+**Job Hunting: **
+* Nothing...considering revising my resume, passed along some info about ThinkShout interview to a friend who is talking to them still.
+
+**Thoughts: ** 
+I can hear my depression on my video. It's so hard to keep going rejection after rejection. Some hurt more than others, and this last one hurt pretty bad. But yeah, I tried to help a buddy who is still interviewing with them. Hope he gets it too. He would probably fit in good at that place...better than me, although I hate to admit that. Or maybe it helps to see how I am not "not good enough" for them, they jsut have other options from people that might fit better into their culture. 
+
+
+### Day 38: April 3, 2017 (Monday)
+
+**Today's Progress**: 
+
+(Other...FreeCodeCamp/Epicodus/OpenSource)
+* [The Odin Project](https://github.com/karenfreemansmith/theodinproject) - got assigned my first real open soure contribution, and about page remake
+* [SelfTaught Programmers-resources](https://github.com/selftaughtprogrammers/resources) - pull request to add contribution info
+
+**Job Hunting: **
+* Interview, and rejection notice a few hours later!
+
+**Thoughts: ** 
+Horrible tailspin over the interview/rejection. I got really excited about this company then choked in the interview. I'm glad they were prompt letting me know. But it just goes to show getting excited about mere possibilities is a waste of time and energy - and worse the time it takes to recover from the disappointment when someone you really want to work with says no. Ouch!!
+
+
+### Day 37: April 2, 2017 (Sunday)
+
+**Today's Progress**: 
+
+(Personal Projects)
+* [Angular April Website](https://github.com/karenfreemansmith/AngularAprilWebsite) - Update day 3
+* [Angular April Personal Site](https://github.com/karenfreemansmith/AngularAprilProject1) - fill out day 3 layout & design
 
 **Job Hunting: **
 * Researched company for Monday's interview
